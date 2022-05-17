@@ -1,0 +1,100 @@
+/* SystemBoys - Garotos de Sistema */
+
+body,td,th {
+font-family: MS Sans Serif;
+font-size: 9px;
+color: #000000;
+}
+a {
+font-family: MS Sans Serif;
+font-size: 9px;
+color: #0000FF;
+}
+a:link {
+text-decoration: none;
+}
+a:visited {
+text-decoration: none;
+color: #0000CC;
+}
+a:hover {
+text-decoration: none;
+color: #FF0000;
+}
+a:active {
+text-decoration: none;
+color: #990000;
+}
+.style1 {
+   color: #FFFF00;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+.style2 {
+   color: #0000FF;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+.style3 {
+   color: #FF0000;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+.style4 {
+   color: #FFFFFF;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+.style5 {
+   color: #000000;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+.style6 {
+   color: #999999;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+.style7 {
+   color: #FF9900;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+.style8 {
+   color: #009900;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+.style9 {
+   color: #FF6600;
+   font-family:"MS Sans Serif";
+   font-style:normal;
+   font-size:9px;
+}
+body {
+margin-left: 1px;
+margin-top: 1px;
+margin-right: 1px;
+margin-bottom: 1px;
+}
+BODY {
+SCROLLBAR-FACE-COLOR: #FFCC00;
+SCROLLBAR-HIGHLIGHT-COLOR: #FFFFFF;
+background-color:#FFFFFF;
+SCROLLBAR-SHADOW-COLOR: #FF0000;
+SCROLLBAR-3DLIGHT-COLOR: #FFFFFF;
+SCROLLBAR-ARROW-COLOR: #FFFFFF;
+SCROLLBAR-TRACK-COLOR: #FFFFFF;
+SCROLLBAR-DARKSHADOW-COLOR: #FFFFFF;
+/*background-image:url(../../explorer/img/background_alvo2.jpg);
+background-attachment:fixed;
+background-repeat:no-repeat;*/
+}

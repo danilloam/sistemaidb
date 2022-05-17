@@ -1,0 +1,42 @@
+[14-Apr-2021 02:41:11 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:09:28 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:09:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:09:33 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 8
+[14-Apr-2021 14:09:33 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 9
+[14-Apr-2021 14:09:33 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:09:33 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:09:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 12
+[14-Apr-2021 14:09:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 13
+[14-Apr-2021 14:09:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:10:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:10:38 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 8
+[14-Apr-2021 14:10:38 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 9
+[14-Apr-2021 14:10:38 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:10:38 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:10:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 12
+[14-Apr-2021 14:10:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 13
+[14-Apr-2021 14:10:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:12:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:12:30 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 8
+[14-Apr-2021 14:12:30 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 9
+[14-Apr-2021 14:12:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:12:30 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:12:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 12
+[14-Apr-2021 14:12:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 13
+[14-Apr-2021 14:12:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:12:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:12:35 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 8
+[14-Apr-2021 14:12:35 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 9
+[14-Apr-2021 14:12:35 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:12:35 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:12:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 12
+[14-Apr-2021 14:12:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 13
+[14-Apr-2021 14:12:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:13:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32
+[14-Apr-2021 14:13:30 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 8
+[14-Apr-2021 14:13:30 UTC] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 9
+[14-Apr-2021 14:13:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:13:30 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 11
+[14-Apr-2021 14:13:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 12
+[14-Apr-2021 14:13:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/painel/financeiro/checar.php on line 13
+[14-Apr-2021 14:13:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/oepvjxakt589/public_html/painel/financeiro/config/mysql.php on line 32

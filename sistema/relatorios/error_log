@@ -1,0 +1,59 @@
+-------[14-Mar-2022 20:38:29 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 2
+[14-Mar-2022 20:38:29 UTC] PHP Warning:  include(https://www.sistemaidb.com.br/sistema/header.php): failed to open stream: no suitable wrapper could be found in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 2
+[14-Mar-2022 20:38:29 UTC] PHP Warning:  include(): Failed opening 'https://www.sistemaidb.com.br/sistema/header.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 2
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: perfil in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 156
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: perfil in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 171
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: perfil in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 186
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: perfil in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 201
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver1 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 367
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 372
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver1 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 383
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver1 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 383
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver1 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 383
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver1 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 386
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver1 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 386
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver1 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 389
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver1 in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 389
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 412
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 417
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 417
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 422
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 443
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 448
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 452
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 456
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 471
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 475
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 480
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 525
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 529
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 533
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 537
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 552
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 556
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 577
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 577
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 582
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 590
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 609
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 629
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 634
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 638
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 642
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 673
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 699
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 736
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 739
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 742
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 745
+[14-Mar-2022 20:38:29 UTC] PHP Notice:  Undefined variable: ver in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 748
+[14-Mar-2022 20:42:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 191
+[14-Mar-2022 20:43:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 191
+[14-Mar-2022 20:50:56 UTC] PHP Notice:  Undefined index: id in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 420
+[14-Mar-2022 20:50:56 UTC] PHP Notice:  Undefined index: dataNascimento in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 441
+[14-Mar-2022 20:51:05 UTC] PHP Notice:  Undefined index: id in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 420
+[14-Mar-2022 20:51:05 UTC] PHP Notice:  Undefined index: dataNascimento in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 441
+[15-Mar-2022 13:54:11 UTC] PHP Notice:  Undefined index: id in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 420
+[15-Mar-2022 13:54:11 UTC] PHP Notice:  Undefined index: dataNascimento in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 441
+[15-Mar-2022 13:54:42 UTC] PHP Notice:  Undefined index: id in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 420
+[15-Mar-2022 13:54:42 UTC] PHP Notice:  Undefined index: dataNascimento in /home/oepvjxakt589/public_html/sistema/relatorios/fichapessoa.php on line 441
